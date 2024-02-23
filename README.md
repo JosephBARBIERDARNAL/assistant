@@ -1,1 +1,2 @@
-# assistant
+# ai assistant template
+# puredata-AI
