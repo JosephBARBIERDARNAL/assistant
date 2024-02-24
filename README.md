@@ -37,3 +37,12 @@ pip install openai pygame
 ```
 
 - Define your API key: in **`ai.py`** change **`os.environ.get("OPENAI_API_KEY")`** with your actual API key (in quotes) from OpenAI, available at their [platform](https://platform.openai.com).
+
+- Run the project
+
+```
+puredata VIZUALIZE_NEW_FA.pd
+python main.py
+```
+
+And that's it!
